@@ -4,37 +4,13 @@
     "name": "WEG 1",
     "plz": "50969",
     "street": "Zollstockgürtel",
-    "city": "Köln",
-    "apartments": [
-      {
-        "id": 1,
-        "floor": "EG",
-        "Location": "Rechts"
-      },
-      {
-        "id": 2,
-        "floor": "EG",
-        "Location": "Links"
-      }
-    ]
+    "city": "Köln"
   },
   {
     "id": 2, 
     "name": "WEG 2",
     "plz": "50969",
     "street": "Zollstockgürtel",
-    "city": "Köln",
-    "apartments": [
-      {
-        "id": 3,
-        "floor": "EG",
-        "Location": "Rechts"
-      },
-      {
-        "id": 4,
-        "floor": "EG",
-        "Location": "Links"
-      }
-    ]
+    "city": "Köln"
   }
 ]
