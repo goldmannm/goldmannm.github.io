@@ -1,25 +1,25 @@
 [
   {
-    "ObjektId": 1,
     "id": 1,
+    "ObjektId": 1,
     "floor": "EG",
     "Location": "Rechts"
   },
   {
-    "ObjektId": 1,
     "id": 2,
+    "ObjektId": 1,
     "floor": "EG",
     "Location": "Links"
   },
   {
-    "ObjektId": 2,
     "id": 3,
+    "ObjektId": 2,
     "floor": "EG",
     "Location": "Links"
   },
   {
-    "ObjektId": 2,
     "id": 4,
+    "ObjektId": 2,
     "floor": "EG",
     "Location": "Links"
   }
